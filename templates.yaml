@@ -1,0 +1,17 @@
+welcome: |
+  OppositeWord.
+
+welcome_re: |
+  OppositeWord. How may I help you?
+
+welcome_card: |
+  OppositeWord is an Alexa skill written by Dr Faruque Sarker. An Alexa Skill that will tell you the opposite of any word you tell her
+
+stop_bye: |
+  Goodbye!
+
+cancel_bye: |
+  OK, goodbye!
+
+help_text: |
+  OppositeWord is an Alexa skill that does things. This is where the developer would normally explain how to do them.
