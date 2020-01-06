@@ -28,7 +28,7 @@ snowballstemmer==1.2.1
 Sphinx==1.5.2
 sphinx-autodoc-typehints==1.1.0
 sphinx-rtd-theme==0.1.9
-waitress==1.0.2
+waitress==1.4.2
 WebOb==1.7.1
 WebTest==2.0.25
 Werkzeug==0.11.15
